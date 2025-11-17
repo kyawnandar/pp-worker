@@ -1,5 +1,5 @@
   {
-	    "name": "worker-name",
+	    "name": "pp2",
 	    "compatibility_date": "2025-11-12",
         "main": "src/index.ts"
 	  }

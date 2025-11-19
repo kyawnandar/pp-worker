@@ -1,2 +1,5 @@
-  // wrangler.jsonc
-"n
+  {
+	    "name": "ppv",
+	    "compatibility_date": "2025-11-12",
+        "main": "src/index.ts"
+	  }
